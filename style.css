@@ -1,0 +1,47 @@
+.display-4.display-4.font-italic{
+    color: rgb(255, 134, 255);
+}
+
+.nav span{
+    background-color: rgb(168, 250, 215);
+    border-radius: 20px;
+    padding: 5px;
+}
+.jumbotron a{
+    font-style: italic;
+    color: rgb(255, 190, 146);
+}
+.blog-main h3 + div{
+    border: 3px solid lightcoral;
+}
+.blog-post:first-of-type hr{
+    color: red;
+}
+.nav span:nth-of-type(even){
+    color: rgb(255, 0, 170);
+}
+.list-unstyled.mb-0 li{
+    border: 2px solid lime;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 2px;
+}
+.blog-post:nth-child(3) .blog-post-meta a{
+    color: rgb(65, 242, 0);
+}
+.blog-post:nth-child(4) li:nth-of-type(2){
+    background-color: rgb(254, 165, 135);
+}
+.float-right.mb-3.mr-3 {
+    border: 3px solid pink;
+    border-radius: 15px;
+    padding: 5px;
+}
+.blog-pagination a:nth-last-of-type(1){
+    color: rgb(255, 114, 114);
+}
+.blog-footer a:nth-child(2){
+    border: 2px solid lime;
+    border-radius: 15px;
+    padding: 5px;
+}
